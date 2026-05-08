@@ -52,14 +52,14 @@ POST /generate
   "issue": "I am sick and cannot attend class",
   "tone": "respectful"
 }
-
+```
 Response
 
 ```json
 {
   "email": "Generated email content here..."
 }
-
+```
 ## How It Works
 
 - User submits form in React  
