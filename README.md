@@ -113,6 +113,6 @@ Response
 ##  Clone This Project
 
 ```bash
-git clone https://github.com/your-username/ai-email-generator.git
-cd ai-email-generator
+git clone https://github.com/your-username/EmailGenerator.git
+cd EmailGenerator
 
