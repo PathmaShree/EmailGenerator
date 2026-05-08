@@ -116,6 +116,3 @@ Response
 git clone https://github.com/your-username/ai-email-generator.git
 cd ai-email-generator
 
-##OUTPUT
-![alt text](image-1.png)
-![alt text](image-2.png)
